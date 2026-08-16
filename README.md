@@ -4,8 +4,7 @@ Desenvolvedor front-end, com foco em interfaces bem construídas, responsivas e 
 
 ## 🚀 Sobre mim
 
-- Construo sites e sistemas web do zero — de landing pages a e-commerces e plataformas com autenticação
-- Trabalho com integração de APIs externas (TMDB, Shopify) e serviços de back-end como Firebase
+- Construo sites e sistemas web do zero — de landing pages a sites profissionais com autenticação
 - Gosto de deixar os projetos prontos pra produção: headers de segurança, chaves protegidas, sem gambiarra
 
 ## 🛠️ Tecnologias
