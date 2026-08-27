@@ -24,6 +24,16 @@ Desenvolvedor front-end, com foco em interfaces bem construídas, responsivas e 
 Plataforma de avaliações de filmes e séries com catálogo via TMDB API, login com Google e avaliações por usuário.
 **Live:** [star-cinee.vercel.app](https://star-cinee.vercel.app)
 
+🍕 Landing Page — Pizzaria
+
+Landing page moderna e responsiva para pizzaria, desenvolvida com foco em apresentação dos produtos e conversão de pedidos.
+
+O projeto conta com página inicial, seção sobre, cardápio, contato, carrinho de compras e finalização do pedido diretamente pelo WhatsApp.
+
+Tecnologias: HTML, CSS e JavaScript
+
+Live: landing-page-pizzaria-tau.vercel.app
+
 
 📫 Me encontre em:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscorrealana/)
