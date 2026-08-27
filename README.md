@@ -26,4 +26,4 @@ Plataforma de avaliações de filmes e séries com catálogo via TMDB API, login
 
 
 📫 Me encontre em:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscorrealana/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscorrealana/)
